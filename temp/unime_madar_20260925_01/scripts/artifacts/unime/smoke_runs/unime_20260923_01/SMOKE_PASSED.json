@@ -1,0 +1,43 @@
+{
+  "completed_utc": "2026-09-23T19:32:22.129862+00:00",
+  "cuda": "12.6",
+  "cuda_token": "0",
+  "evidence_sha256": {
+    "INFERENCE_PARITY.json": "1d32a81763697e221ddd13ea1714e7b6a686ea037567d160635bf4c130e46335",
+    "PREPROCESSING_PASSED.json": "b6d0c13ab464c8cbca1dc674f69858a68c1c780f1539da988173d1526d53f187",
+    "finetune.log": "301bb62e0fdf25223607b39332a8bc2e3c92130af15aa2fbb741b88ba4b338b7",
+    "pretrain.log": "83c8fac7fc3f06bd9dd83e033ae6a090c714446df3e5ae7b2b85b7319fe44d94"
+  },
+  "full_run": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/benchmark_runs/unime_20260923_01",
+  "gpu": "NVIDIA H200",
+  "job_id": "11537",
+  "manifest_sha256": "b3370c4a55e75ca109cd8e955cc658c8d4bc77204244d4bfe42e61642adbe109",
+  "protocol_sha256": "e034e477cad93199d0d12f1edc39ca0fb9871c23ff234f2f26d9fb37d416a217",
+  "status": "passed",
+  "synthetic_steps": {
+    "finetune": {
+      "elapsed_seconds": 232.04,
+      "peak_allocated_gib": 19.808,
+      "peak_reserved_gib": 22.428,
+      "stage": "finetune",
+      "status": "passed",
+      "steady_step_mean_seconds": 0.2528,
+      "steady_step_median_seconds": 0.2526,
+      "timing_sample_count": 4,
+      "timing_warmup_steps": 2
+    },
+    "pretrain": {
+      "elapsed_seconds": 395.92,
+      "peak_allocated_gib": 7.5,
+      "peak_reserved_gib": 10.061,
+      "stage": "pretrain",
+      "status": "passed",
+      "steady_step_mean_seconds": 0.0512,
+      "steady_step_median_seconds": 0.0506,
+      "timing_sample_count": 4,
+      "timing_warmup_steps": 2
+    }
+  },
+  "test_cases_used_for_smoke_inference": 0,
+  "torch": "2.8.0+cu126"
+}

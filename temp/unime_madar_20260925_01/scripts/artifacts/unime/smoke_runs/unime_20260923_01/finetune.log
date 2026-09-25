@@ -1,0 +1,11 @@
+[Deterministic] Random seed and deterministic settings ready: 40
+{"stage": "finetune", "gpu": "NVIDIA H200", "torch": "2.8.0+cu126", "batch_size": 4, "crop_size": 96, "compile": true, "checkpoint_cnn": false, "precision": "fp16", "synthetic_data": true, "weights": "random initialization; this does not verify pretrained transfer"}
+/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/networks.py:126: RuntimeWarning: Checkpoint not found at '/tmp/unime.11537.yvc3292o/unime-smoke-weights-b9cem8fy/not-a-checkpoint.pth'. Tried: ['/tmp/unime.11537.yvc3292o/unime-smoke-weights-b9cem8fy/not-a-checkpoint.pth']
+  self.uni_encoder = UniEncoderWrapper(
+{"stage": "finetune", "peak_allocated_gib": 18.57, "peak_reserved_gib": 19.875, "step": 1, "loss": 20.938995361328125, "grad_norm": 3.763592481613159, "step_seconds": 222.4289, "status": "step_passed"}
+{"stage": "finetune", "peak_allocated_gib": 19.805, "peak_reserved_gib": 22.428, "step": 2, "loss": 20.89471435546875, "grad_norm": 3.7378923892974854, "step_seconds": 0.2636, "status": "step_passed"}
+{"stage": "finetune", "peak_allocated_gib": 19.808, "peak_reserved_gib": 22.428, "step": 3, "loss": 20.849903106689453, "grad_norm": 3.7148356437683105, "step_seconds": 0.2534, "status": "step_passed"}
+{"stage": "finetune", "peak_allocated_gib": 19.808, "peak_reserved_gib": 22.428, "step": 4, "loss": 20.805706024169922, "grad_norm": 3.6922876834869385, "step_seconds": 0.2525, "status": "step_passed"}
+{"stage": "finetune", "peak_allocated_gib": 19.808, "peak_reserved_gib": 22.428, "step": 5, "loss": 20.76656723022461, "grad_norm": 3.6676578521728516, "step_seconds": 0.2527, "status": "step_passed"}
+{"stage": "finetune", "peak_allocated_gib": 19.808, "peak_reserved_gib": 22.428, "step": 6, "loss": 20.71970558166504, "grad_norm": 3.649763345718384, "step_seconds": 0.2524, "status": "step_passed"}
+{"stage": "finetune", "peak_allocated_gib": 19.808, "peak_reserved_gib": 22.428, "status": "passed", "elapsed_seconds": 232.04, "timing_warmup_steps": 2, "timing_sample_count": 4, "steady_step_median_seconds": 0.2526, "steady_step_mean_seconds": 0.2528}

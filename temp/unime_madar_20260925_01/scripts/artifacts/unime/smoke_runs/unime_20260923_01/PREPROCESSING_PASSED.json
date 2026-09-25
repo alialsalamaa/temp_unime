@@ -1,0 +1,76 @@
+{
+  "array_scan_scope": "Every image value and every segmentation label checked during case preparation or resume validation; final file metadata and native split rechecked.",
+  "arrays_validated": 2502,
+  "baseline_source_edited": false,
+  "case_records_directory": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/preprocessing/cases",
+  "cases_validated": 1251,
+  "completed_utc": "2026-09-23T19:30:46.945527+00:00",
+  "data_root": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/data/BRATS2023",
+  "elapsed_seconds": 2937.036,
+  "environment_modified": false,
+  "full_dataset_preprocessed": true,
+  "full_preprocessing_complete": true,
+  "full_value_scan_passed": true,
+  "gpu_used": false,
+  "minimum_spatial_size": 128,
+  "native_split_verification": {
+    "counts": {
+      "test": 251,
+      "train": 875,
+      "val": 125
+    },
+    "max_shape_dhw": [
+      155,
+      177,
+      208
+    ],
+    "split_sha256": "84c430662622560f70055313417373f8dad0729fb20773e7e2e13238d215b831",
+    "status": "verified"
+  },
+  "native_split_verification_command": [
+    "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/.venv-unime/bin/python",
+    "-B",
+    "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/verify_study_split.py",
+    "--data-root",
+    "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/data/BRATS2023",
+    "--split-json",
+    "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/splits/official_imfuse_split.json"
+  ],
+  "new_slurm_jobs_submitted": 0,
+  "prepared_bytes": 69567134878,
+  "processed_cases": 1251,
+  "provenance": {
+    "channel_order": [
+      "FLAIR",
+      "T1c",
+      "T1",
+      "T2"
+    ],
+    "minimum_spatial_size": 128,
+    "native_process_case_unchanged": true,
+    "native_source_sha256": {
+      "brats23_process.py": "4c9477ef950013dd3bd6f1178ec45ff211d841424e94fa3beca37d3ecc4f8b42",
+      "verify_study_split.py": "2d50f2c178f55b4855c5b4ef9434eb120a6d2f92a19d744781cbf7cd6184c347"
+    },
+    "output_prefix": "BraTS2023",
+    "raw_root": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/data/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData",
+    "split_sha256": "84c430662622560f70055313417373f8dad0729fb20773e7e2e13238d215b831"
+  },
+  "raw_files_modified": false,
+  "reused_cases": 0,
+  "segmentation_statistics_shared_across_cases": false,
+  "slurm_job_id": "11537",
+  "slurm_step_id": null,
+  "source_hashes_unchanged": true,
+  "split_counts": {
+    "test": 251,
+    "train": 875,
+    "val": 125
+  },
+  "split_sha256": "84c430662622560f70055313417373f8dad0729fb20773e7e2e13238d215b831",
+  "started_utc": "2026-09-23T18:41:50.184177+00:00",
+  "status": "passed",
+  "threads_per_worker": 1,
+  "total_cases": 1251,
+  "workers": 4
+}

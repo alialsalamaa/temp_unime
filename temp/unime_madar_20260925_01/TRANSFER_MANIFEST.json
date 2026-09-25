@@ -1,0 +1,2664 @@
+{
+  "archive": {
+    "file_count": 118,
+    "filename": "unime_source_and_provenance.tar",
+    "sha256": "0bd3abd7b3bcd16bae6b6843daffe21546ccdaed5e51fbb63294a8144449bb42",
+    "size_bytes": 1167360
+  },
+  "created_utc": "2026-09-25T12:36:38.013608+00:00",
+  "files": {
+    "UniME/.gitignore": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/.gitignore",
+      "sha256": "7166b41c22acc9a145055284277da3e1b264d42d9bbea26f8671c4c27c3370cf",
+      "size_bytes": 219,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1224979098652758902,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 219
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1224979098652758902,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 219
+      }
+    },
+    "UniME/BENCHMARK_PROTOCOL.md": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/BENCHMARK_PROTOCOL.md",
+      "sha256": "a2d0183c5faa71fbe25e7fb6eb58f1eb300ee5efd2355edf41931046fdf64a24",
+      "size_bytes": 10809,
+      "stat_after": {
+        "ctime_ns": 1790186765000000000,
+        "dev": 244,
+        "ino": 72057594045906356,
+        "mode": 33204,
+        "mtime_ns": 1790186533000000000,
+        "size": 10809
+      },
+      "stat_before": {
+        "ctime_ns": 1790186765000000000,
+        "dev": 244,
+        "ino": 72057594045906356,
+        "mode": 33204,
+        "mtime_ns": 1790186533000000000,
+        "size": 10809
+      }
+    },
+    "UniME/PAPER_REPRODUCTION.md": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/PAPER_REPRODUCTION.md",
+      "sha256": "5dad3ce10d9840c2092dddb36a2e598284991ab1064c6533360b4cbb44108dd7",
+      "size_bytes": 10708,
+      "stat_after": {
+        "ctime_ns": 1790186765000000000,
+        "dev": 244,
+        "ino": 2522015791333636672,
+        "mode": 33204,
+        "mtime_ns": 1790186533000000000,
+        "size": 10708
+      },
+      "stat_before": {
+        "ctime_ns": 1790186765000000000,
+        "dev": 244,
+        "ino": 2522015791333636672,
+        "mode": 33204,
+        "mtime_ns": 1790186533000000000,
+        "size": 10708
+      }
+    },
+    "UniME/README.md": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/README.md",
+      "sha256": "6feef682fc9475778eb9d887cba1a7b30d3c69b4df5f4174f133516a2e8564f1",
+      "size_bytes": 7708,
+      "stat_after": {
+        "ctime_ns": 1790186765000000000,
+        "dev": 244,
+        "ino": 216172782121759089,
+        "mode": 33204,
+        "mtime_ns": 1790186533000000000,
+        "size": 7708
+      },
+      "stat_before": {
+        "ctime_ns": 1790186765000000000,
+        "dev": 244,
+        "ino": 216172782121759089,
+        "mode": 33204,
+        "mtime_ns": 1790186533000000000,
+        "size": 7708
+      }
+    },
+    "UniME/environment-cluster.yml": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/environment-cluster.yml",
+      "sha256": "36a66e90503d702ee8c64bc1d6101b252bb2c9d13c26bf5c52fede250b67afef",
+      "size_bytes": 118,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1008806316538975361,
+        "mode": 33188,
+        "mtime_ns": 1789840520000000000,
+        "size": 118
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1008806316538975361,
+        "mode": 33188,
+        "mtime_ns": 1789840520000000000,
+        "size": 118
+      }
+    },
+    "UniME/environment-paper.yml": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/environment-paper.yml",
+      "sha256": "43433f1a6debcf287fc110f3720c1bf72f0237eb2d7bd1edf721fd3118605823",
+      "size_bytes": 122,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2233785415181933025,
+        "mode": 33188,
+        "mtime_ns": 1789840520000000000,
+        "size": 122
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2233785415181933025,
+        "mode": 33188,
+        "mtime_ns": 1789840520000000000,
+        "size": 122
+      }
+    },
+    "UniME/main.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/main.py",
+      "sha256": "73082c9d04e1671ab4c879232982aab7810683e80ba230c6ac24df7c04d54386",
+      "size_bytes": 9900,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 144115188083841552,
+        "mode": 33188,
+        "mtime_ns": 1790182238000000000,
+        "size": 9900
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 144115188083841552,
+        "mode": 33188,
+        "mtime_ns": 1790182238000000000,
+        "size": 9900
+      }
+    },
+    "UniME/models/Backbone/backbone.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/backbone.py",
+      "sha256": "cc9e850a86b63d5ef5c852ee14ef7e49f661897b3d2b631e7edb1dfb061464bd",
+      "size_bytes": 13706,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 72057594045906359,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 13706
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 72057594045906359,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 13706
+      }
+    },
+    "UniME/models/Backbone/blocks.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/blocks.py",
+      "sha256": "0e7bf698c34d5eecd43dcbda00c5e64530db3b9c47fe9b38e3dcb7c5fd29ad33",
+      "size_bytes": 8034,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1008806316538975364,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 8034
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1008806316538975364,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 8034
+      }
+    },
+    "UniME/models/Backbone/config.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/config.py",
+      "sha256": "3a34f96f9bdea551e8533a8e5c90fffd294ea4be52862950f8f86d1639616c42",
+      "size_bytes": 1972,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 792633534425188373,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1972
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 792633534425188373,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1972
+      }
+    },
+    "UniME/models/Backbone/decoder.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/decoder.py",
+      "sha256": "b0ea34cee0f89d2ad053b97d5058ab00ffc6d36307ce854234cc61a07e95268a",
+      "size_bytes": 3520,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1441151880766540883,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3520
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1441151880766540883,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3520
+      }
+    },
+    "UniME/models/Backbone/networks.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/networks.py",
+      "sha256": "0ac775564c042ffa5f7f484d68ca4b66f698e581b13b09e00d427fca59a9de53",
+      "size_bytes": 1218,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 576460752311400031,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1218
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 576460752311400031,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1218
+      }
+    },
+    "UniME/models/Backbone/rope_3d.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/rope_3d.py",
+      "sha256": "4785812ccb46e180c60a51e8ed5b957625a5aa0a8cc016059793f57bee8667c7",
+      "size_bytes": 6080,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1441151880766540884,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 6080
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1441151880766540884,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 6080
+      }
+    },
+    "UniME/models/Backbone/tokenizer.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/tokenizer.py",
+      "sha256": "bd531da8df012bf630815b20a74630107af4b5e3de3f3faa7337bdc3124765b8",
+      "size_bytes": 1219,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1441151880766540885,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1219
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1441151880766540885,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1219
+      }
+    },
+    "UniME/models/Backbone/utils.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/Backbone/utils.py",
+      "sha256": "daaac765f748658a03496d7f4f1307e09b85612a772abf0b320466cd90c8d7f9",
+      "size_bytes": 5094,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2522015791333636674,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 5094
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2522015791333636674,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 5094
+      }
+    },
+    "UniME/models/UniME/blocks.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/blocks.py",
+      "sha256": "8ee85578ff19385cede23b83c94ff0289ca5a770669b3f7ee7ecf6756504763b",
+      "size_bytes": 3738,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621085,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3738
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621085,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3738
+      }
+    },
+    "UniME/models/UniME/configs.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/configs.py",
+      "sha256": "0aa5200041c5869d32c7d8259674ac936dc52d04f03d55cdec8867a6c780adb0",
+      "size_bytes": 1871,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1585267068842400296,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1871
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1585267068842400296,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1871
+      }
+    },
+    "UniME/models/UniME/decoder.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/decoder.py",
+      "sha256": "82404309ea3d12e2d1ed62ef51988c32b5ca840eb7a5a26f82de70ef451896ba",
+      "size_bytes": 5545,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2449958197295717104,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 5545
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2449958197295717104,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 5545
+      }
+    },
+    "UniME/models/UniME/encoder.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/encoder.py",
+      "sha256": "c0ebdc87ca8569fa0dcc56bd99c06699d46a8171e2a93cc6b26c9111c96de740",
+      "size_bytes": 2582,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2594073385371573367,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 2582
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2594073385371573367,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 2582
+      }
+    },
+    "UniME/models/UniME/initialization.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/initialization.py",
+      "sha256": "515159d55f393297397b2b5f5f32a3a8d066f13b954f5e38a7ca97fda602cbcc",
+      "size_bytes": 2692,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1729382256918251970,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 2692
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1729382256918251970,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 2692
+      }
+    },
+    "UniME/models/UniME/mask.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/mask.py",
+      "sha256": "7b674a246b13e33ca3d1f8c34fe57f3eb2dba208c2c43583d0d724b963ca7f68",
+      "size_bytes": 1314,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2161727821144003928,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1314
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2161727821144003928,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1314
+      }
+    },
+    "UniME/models/UniME/networks.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/networks.py",
+      "sha256": "8e011f5f727e997630c9b782fc88f675a803193622835b80af5284906bba0889",
+      "size_bytes": 10989,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 792633534425188372,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 10989
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 792633534425188372,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 10989
+      }
+    },
+    "UniME/models/UniME/regularizer.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/regularizer.py",
+      "sha256": "7ff6b05eff29abf6f10c8bea75ce3a58edb7a0dc51ef71163978965f70e567ff",
+      "size_bytes": 3082,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 936748722501045180,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3082
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 936748722501045180,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3082
+      }
+    },
+    "UniME/models/UniME/wrapper.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/UniME/wrapper.py",
+      "sha256": "0844eff70817d2c939e47be3bff4da91fc9c7dfb88c53ffe92070cada15f420a",
+      "size_bytes": 10061,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1513209474804462006,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 10061
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1513209474804462006,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 10061
+      }
+    },
+    "UniME/models/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/models/__init__.py",
+      "sha256": "28eeb1364938b5a77b4892f7b5ed4113402f19123aeac399a5cd8774af8a43e0",
+      "size_bytes": 2452,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1873497444992294253,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 2452
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1873497444992294253,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 2452
+      }
+    },
+    "UniME/pretrain.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/pretrain.py",
+      "sha256": "630f54600fb4430f064c41a0e3cd50f335065570833afbadeb647346ec041dbf",
+      "size_bytes": 4968,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1801439850954363202,
+        "mode": 33188,
+        "mtime_ns": 1789839798000000000,
+        "size": 4968
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1801439850954363202,
+        "mode": 33188,
+        "mtime_ns": 1789839798000000000,
+        "size": 4968
+      }
+    },
+    "UniME/pretrain_models/UniEncoder/mask_tools.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/pretrain_models/UniEncoder/mask_tools.py",
+      "sha256": "8dfa093ba71e11bcdd5dd2b1395e5420159f3b1d3457b8cbca8dc8c105108ad9",
+      "size_bytes": 7407,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2522015791333636673,
+        "mode": 33188,
+        "mtime_ns": 1789839810000000000,
+        "size": 7407
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2522015791333636673,
+        "mode": 33188,
+        "mtime_ns": 1789839810000000000,
+        "size": 7407
+      }
+    },
+    "UniME/pretrain_models/UniEncoder/networks.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/pretrain_models/UniEncoder/networks.py",
+      "sha256": "295b52807c533e1e9a5732bc9e75c5a1221284fd18f85eae193b950400af3134",
+      "size_bytes": 12478,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 864691128463125680,
+        "mode": 33188,
+        "mtime_ns": 1789839810000000000,
+        "size": 12478
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 864691128463125680,
+        "mode": 33188,
+        "mtime_ns": 1789839810000000000,
+        "size": 12478
+      }
+    },
+    "UniME/pretrain_models/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/pretrain_models/__init__.py",
+      "sha256": "e134eeb691ff3f54563abecd7f34055ddc5ca268f8a24d550d10101992d812c8",
+      "size_bytes": 1947,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1657324662880320849,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1947
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1657324662880320849,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1947
+      }
+    },
+    "UniME/requirements-cluster-lock.txt": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/requirements-cluster-lock.txt",
+      "sha256": "f9f374e9fd82965e62492e92d58b3cf711c8b83eeab66f04da673044875bb6ef",
+      "size_bytes": 1432,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2594073385371573365,
+        "mode": 33188,
+        "mtime_ns": 1789841919000000000,
+        "size": 1432
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2594073385371573365,
+        "mode": 33188,
+        "mtime_ns": 1789841919000000000,
+        "size": 1432
+      }
+    },
+    "UniME/requirements-cluster.txt": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/requirements-cluster.txt",
+      "sha256": "02f65359f2c0d0266f8a6d0f0934cdf02137f953056f2d0a7712f98044425382",
+      "size_bytes": 200,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2233785415181933026,
+        "mode": 33188,
+        "mtime_ns": 1789840520000000000,
+        "size": 200
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2233785415181933026,
+        "mode": 33188,
+        "mtime_ns": 1789840520000000000,
+        "size": 200
+      }
+    },
+    "UniME/requirements-common.txt": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/requirements-common.txt",
+      "sha256": "603e1163c67fa626df36f6daab3e1f1965a656d952929c2428b2a2b37aadb60e",
+      "size_bytes": 149,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1369094286728614299,
+        "mode": 33188,
+        "mtime_ns": 1789841086000000000,
+        "size": 149
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1369094286728614299,
+        "mode": 33188,
+        "mtime_ns": 1789841086000000000,
+        "size": 149
+      }
+    },
+    "UniME/requirements-paper.txt": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/requirements-paper.txt",
+      "sha256": "4669492b868a95a899e3f9b43b9cd511691a9f71b563713ee1d8b67029b93faf",
+      "size_bytes": 252,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1945555039030222989,
+        "mode": 33188,
+        "mtime_ns": 1789840540000000000,
+        "size": 252
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 1945555039030222989,
+        "mode": 33188,
+        "mtime_ns": 1789840540000000000,
+        "size": 252
+      }
+    },
+    "UniME/requirements.txt": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/requirements.txt",
+      "sha256": "6a70911e604eb27cfbd3a19a043ee46fa549ec07c17ec0be83fabcd69dfbdea1",
+      "size_bytes": 1826,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 864691128463125678,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1826
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 864691128463125678,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1826
+      }
+    },
+    "UniME/scripts/brats23_process.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/brats23_process.py",
+      "sha256": "4c9477ef950013dd3bd6f1178ec45ff211d841424e94fa3beca37d3ecc4f8b42",
+      "size_bytes": 13731,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1585267068842400295,
+        "mode": 33204,
+        "mtime_ns": 1790186364000000000,
+        "size": 13731
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1585267068842400295,
+        "mode": 33204,
+        "mtime_ns": 1790186364000000000,
+        "size": 13731
+      }
+    },
+    "UniME/scripts/delete_pycache.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/delete_pycache.sh",
+      "sha256": "c0f2e34aaa49c81e33a6951029e6f55386e37502a97d57506f5bf22250f1d05e",
+      "size_bytes": 118,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 144115188083841553,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 118
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 144115188083841553,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 118
+      }
+    },
+    "UniME/scripts/finetune.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/finetune.sh",
+      "sha256": "caf1efe536722ad5ddd2330c8e2e9b5684eca68047cb4f9611b26cd42bf3af4b",
+      "size_bytes": 1200,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 576460752311400030,
+        "mode": 33188,
+        "mtime_ns": 1789842384000000000,
+        "size": 1200
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 576460752311400030,
+        "mode": 33188,
+        "mtime_ns": 1789842384000000000,
+        "size": 1200
+      }
+    },
+    "UniME/scripts/pipeline/train_base.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/pipeline/train_base.sh",
+      "sha256": "07040b75ee061a3a64ded939596fc3a790afea13dc2ea688b362e77d248f094a",
+      "size_bytes": 1399,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 432345564235548713,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1399
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 432345564235548713,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1399
+      }
+    },
+    "UniME/scripts/pipeline/train_nano.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/pipeline/train_nano.sh",
+      "sha256": "f788422e3dbe4d2d7189b223b738553f6c77522712f79797acea2f96a75ad304",
+      "size_bytes": 1399,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 432345564235548714,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1399
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 432345564235548714,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1399
+      }
+    },
+    "UniME/scripts/pipeline/train_original.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/pipeline/train_original.sh",
+      "sha256": "e7329dcb002f525ee8e4d19b23995645eb82924a640eda1c1879ef26d302065a",
+      "size_bytes": 293,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1008806316538975363,
+        "mode": 33188,
+        "mtime_ns": 1789839873000000000,
+        "size": 293
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1008806316538975363,
+        "mode": 33188,
+        "mtime_ns": 1789839873000000000,
+        "size": 293
+      }
+    },
+    "UniME/scripts/pipeline/train_small.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/pipeline/train_small.sh",
+      "sha256": "e5e4a634ab69259cd7a07be3b14439b8402aaadaaa506f057d75e13d795af591",
+      "size_bytes": 1404,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1080863910576897818,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1404
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1080863910576897818,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1404
+      }
+    },
+    "UniME/scripts/pipeline/train_tiny.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/pipeline/train_tiny.sh",
+      "sha256": "70b116995ccadbcb1c6b7a4cb756fbee5b08b25d8c46a04c70118540df3d7e2c",
+      "size_bytes": 1400,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1801439850954363203,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1400
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1801439850954363203,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1400
+      }
+    },
+    "UniME/scripts/prepare_benchmark.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/prepare_benchmark.py",
+      "sha256": "c2eaa701aba20b34074a6567034cfe51d7462779d7e9c2047a53371cc7f99090",
+      "size_bytes": 2800,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 144115188083841554,
+        "mode": 33188,
+        "mtime_ns": 1790182879000000000,
+        "size": 2800
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 144115188083841554,
+        "mode": 33188,
+        "mtime_ns": 1790182879000000000,
+        "size": 2800
+      }
+    },
+    "UniME/scripts/pretrain.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/pretrain.sh",
+      "sha256": "53ce4bcdca1b700890279d78d892af2126b105964c8b0ff297c61e8f8595d7c8",
+      "size_bytes": 1228,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 2017612633068154411,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 1228
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 2017612633068154411,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 1228
+      }
+    },
+    "UniME/scripts/run_benchmark.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/run_benchmark.py",
+      "sha256": "b03e977c5340f022ba2fb5e33b8c34aeeb1c17c5e0612df2719b41a61a9fd681",
+      "size_bytes": 675,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2449958197295717103,
+        "mode": 33188,
+        "mtime_ns": 1790183005000000000,
+        "size": 675
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2449958197295717103,
+        "mode": 33188,
+        "mtime_ns": 1790183005000000000,
+        "size": 675
+      }
+    },
+    "UniME/scripts/run_nebius_benchmark.sh": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/run_nebius_benchmark.sh",
+      "sha256": "c9b2e7f7786b88134522b8faf4de0027a59980d9d8de1f315a528a5f2b6ce9b6",
+      "size_bytes": 8569,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2089670227106074972,
+        "mode": 33188,
+        "mtime_ns": 1790183191000000000,
+        "size": 8569
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2089670227106074972,
+        "mode": 33188,
+        "mtime_ns": 1790183191000000000,
+        "size": 8569
+      }
+    },
+    "UniME/scripts/smoke_inference_gpu.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/smoke_inference_gpu.py",
+      "sha256": "7aaf70fe6ff60d7dfb38547a1e84489d79c88f2070dab88591aeff8c8a8ea66c",
+      "size_bytes": 15267,
+      "stat_after": {
+        "ctime_ns": 1790188130000000000,
+        "dev": 244,
+        "ino": 1224979098652759335,
+        "mode": 33204,
+        "mtime_ns": 1790188130000000000,
+        "size": 15267
+      },
+      "stat_before": {
+        "ctime_ns": 1790188130000000000,
+        "dev": 244,
+        "ino": 1224979098652759335,
+        "mode": 33204,
+        "mtime_ns": 1790188130000000000,
+        "size": 15267
+      }
+    },
+    "UniME/scripts/smoke_training_gpu.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/smoke_training_gpu.py",
+      "sha256": "c79d8a68a673d099502bbfda4960221a5467610bce7ec9037ca7ac6f9d10b1aa",
+      "size_bytes": 8320,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 504403158273480575,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 8320
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 504403158273480575,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 8320
+      }
+    },
+    "UniME/scripts/verify_study_split.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/scripts/verify_study_split.py",
+      "sha256": "2d50f2c178f55b4855c5b4ef9434eb120a6d2f92a19d744781cbf7cd6184c347",
+      "size_bytes": 2451,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1873497444992294252,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 2451
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1873497444992294252,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 2451
+      }
+    },
+    "UniME/source/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/__init__.py",
+      "sha256": "167e259bf6ed48404670c5ccc4ae1a5b5cd9d9150cc7ef056f22b2402f56bc07",
+      "size_bytes": 93,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 936748722501045177,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 93
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 936748722501045177,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 93
+      }
+    },
+    "UniME/source/benchmark_capture.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/benchmark_capture.py",
+      "sha256": "ac28fc7038b6e99c371ff3f54bad9e853ed8b98e07b40232815bca7a8b8f8160",
+      "size_bytes": 11661,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1945555039030222990,
+        "mode": 33188,
+        "mtime_ns": 1790182979000000000,
+        "size": 11661
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1945555039030222990,
+        "mode": 33188,
+        "mtime_ns": 1790182979000000000,
+        "size": 11661
+      }
+    },
+    "UniME/source/benchmark_metrics.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/benchmark_metrics.py",
+      "sha256": "96e0dfc815d76fdd84afdb46305620b57d76755554cb3bb1c4843f2e14798536",
+      "size_bytes": 14216,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 504403158273480574,
+        "mode": 33188,
+        "mtime_ns": 1790182951000000000,
+        "size": 14216
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 504403158273480574,
+        "mode": 33188,
+        "mtime_ns": 1790182951000000000,
+        "size": 14216
+      }
+    },
+    "UniME/source/benchmark_protocol.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/benchmark_protocol.py",
+      "sha256": "98b78d4624355365f5f679223ebb3c9f21690516d67c5677da16ba80ab126246",
+      "size_bytes": 21027,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 792633534425188370,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 21027
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 792633534425188370,
+        "mode": 33204,
+        "mtime_ns": 1790186452000000000,
+        "size": 21027
+      }
+    },
+    "UniME/source/benchmark_runner.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/benchmark_runner.py",
+      "sha256": "629b49913c9c92546212c75b2039da07eb1fd0aa3c0a2b6609a820741aa61cbc",
+      "size_bytes": 24579,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2666130979409504075,
+        "mode": 33188,
+        "mtime_ns": 1790183391000000000,
+        "size": 24579
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2666130979409504075,
+        "mode": 33188,
+        "mtime_ns": 1790183391000000000,
+        "size": 24579
+      }
+    },
+    "UniME/source/config/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/config/__init__.py",
+      "sha256": "1547fe1ae183daa2d17f4420d2222ee46a6c59865dca4cbdbc0359888ee86446",
+      "size_bytes": 344,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2377900603257785512,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 344
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2377900603257785512,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 344
+      }
+    },
+    "UniME/source/config/masks.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/config/masks.py",
+      "sha256": "6f79706ff65e014d85069fb86ea7b6fe136a5474e33351f9a5138bf4417e66b1",
+      "size_bytes": 874,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2594073385371573366,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 874
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2594073385371573366,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 874
+      }
+    },
+    "UniME/source/config/parse.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/config/parse.py",
+      "sha256": "1e2ed0ca4d8ab4b4a120040eabf3c26a4b826acf6f8b59ae3a589fe9d178a88f",
+      "size_bytes": 9048,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 72057594045906358,
+        "mode": 33188,
+        "mtime_ns": 1790182238000000000,
+        "size": 9048
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 72057594045906358,
+        "mode": 33188,
+        "mtime_ns": 1790182238000000000,
+        "size": 9048
+      }
+    },
+    "UniME/source/config/setup_seed.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/config/setup_seed.py",
+      "sha256": "c9cf2a3bebc4ef9aa03b3da58c1d93a03243a9fdc8c255ee071b0dad59091a82",
+      "size_bytes": 1711,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1080863910576897817,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1711
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1080863910576897817,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 1711
+      }
+    },
+    "UniME/source/core/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/core/__init__.py",
+      "sha256": "9851230d6774d1aaba2cd5849cc625af18659890f67abc080b107696bfdafa93",
+      "size_bytes": 515,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621084,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 515
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621084,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 515
+      }
+    },
+    "UniME/source/core/evaluation.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/core/evaluation.py",
+      "sha256": "a4f4551d8bef58f9de00c5acf71e7d58ad9d7101b6eeb40f174db11f8cbf9464",
+      "size_bytes": 3681,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2666130979409504076,
+        "mode": 33188,
+        "mtime_ns": 1789842384000000000,
+        "size": 3681
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2666130979409504076,
+        "mode": 33188,
+        "mtime_ns": 1789842384000000000,
+        "size": 3681
+      }
+    },
+    "UniME/source/core/inference.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/core/inference.py",
+      "sha256": "8e97324ba243c58ae8292f74ea7cd29deb4010b9bee40e84c7d3300930eef9b0",
+      "size_bytes": 3559,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2233785415181933028,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3559
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2233785415181933028,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 3559
+      }
+    },
+    "UniME/source/core/loss_function.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/core/loss_function.py",
+      "sha256": "3fcbaff13212a1e23f654d43bdd4e39fa6118fbe9134c944e15c4fc6e384fb9d",
+      "size_bytes": 6083,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2377900603257785511,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 6083
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2377900603257785511,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 6083
+      }
+    },
+    "UniME/source/core/lr_scheduler.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/core/lr_scheduler.py",
+      "sha256": "06f3fcae6fb664a6aadd9d4004e99af41bd0840a065b712f9152e2f999e20c3b",
+      "size_bytes": 2536,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1657324662880320848,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 2536
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1657324662880320848,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 2536
+      }
+    },
+    "UniME/source/core/optimizer.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/core/optimizer.py",
+      "sha256": "4a2b879d086f027df6c5d70ac66e6ab30aa90d569b2f102e117b5ed9e3132497",
+      "size_bytes": 6717,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 936748722501045179,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 6717
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 936748722501045179,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 6717
+      }
+    },
+    "UniME/source/dataset/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/dataset/__init__.py",
+      "sha256": "167e259bf6ed48404670c5ccc4ae1a5b5cd9d9150cc7ef056f22b2402f56bc07",
+      "size_bytes": 93,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2161727821144003927,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 93
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2161727821144003927,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 93
+      }
+    },
+    "UniME/source/dataset/augmentation.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/dataset/augmentation.py",
+      "sha256": "01152115e2120d4b4548c4b21865dc9972eaa1c166cca86e90d37edc47907162",
+      "size_bytes": 19269,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1369094286728614301,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 19269
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1369094286728614301,
+        "mode": 33188,
+        "mtime_ns": 1789838966000000000,
+        "size": 19269
+      }
+    },
+    "UniME/source/dataset/dataloader.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/dataset/dataloader.py",
+      "sha256": "c5565e55fb41a9f3112c344e8ae08045fabf4a3cbbb16eec246cf5e4dfcea176",
+      "size_bytes": 3811,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2305843009219860469,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 3811
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2305843009219860469,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 3811
+      }
+    },
+    "UniME/source/dataset/dataset.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/dataset/dataset.py",
+      "sha256": "4a907037b8c42d2fd5a1e9d5dcaca18ab235981eedf2e2a3a7e27d1d548ba4b4",
+      "size_bytes": 7565,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1729382256918251969,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 7565
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1729382256918251969,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 7565
+      }
+    },
+    "UniME/source/logger.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/logger.py",
+      "sha256": "3ab0b773cc963eb7e632ff724dfdd9b6ac30ed167d9132bc095789789b6cb728",
+      "size_bytes": 5891,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1080863910576897816,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 5891
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1080863910576897816,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 5891
+      }
+    },
+    "UniME/source/pretrain/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/pretrain/__init__.py",
+      "sha256": "6be0735d880ba981ac354921fdd05b6edad57cf8eb2a046a7421a7a180a59405",
+      "size_bytes": 412,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 792633534425188371,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 412
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 792633534425188371,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 412
+      }
+    },
+    "UniME/source/pretrain/dataset.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/pretrain/dataset.py",
+      "sha256": "db99c1b25a8841e376d1683b7d7fc0ab5a10eb6c15aaa86c92bead20774f6f5e",
+      "size_bytes": 12323,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 936748722501045178,
+        "mode": 33188,
+        "mtime_ns": 1789840353000000000,
+        "size": 12323
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 936748722501045178,
+        "mode": 33188,
+        "mtime_ns": 1789840353000000000,
+        "size": 12323
+      }
+    },
+    "UniME/source/pretrain/loss_function.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/pretrain/loss_function.py",
+      "sha256": "6ad809653d19fc7e59b2bdc8f7424143c43264eaf9d3ff85d174592ba3182f8b",
+      "size_bytes": 1954,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1513209474804462005,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 1954
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1513209474804462005,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 1954
+      }
+    },
+    "UniME/source/pretrain/parse.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/pretrain/parse.py",
+      "sha256": "f3840dbacf41ebd13aa0f63c4a5687f0a10afb8a4c31bb77a32b2601a77e4447",
+      "size_bytes": 9330,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 864691128463125679,
+        "mode": 33204,
+        "mtime_ns": 1790186341000000000,
+        "size": 9330
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 864691128463125679,
+        "mode": 33204,
+        "mtime_ns": 1790186341000000000,
+        "size": 9330
+      }
+    },
+    "UniME/source/pretrain/pretrain.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/pretrain/pretrain.py",
+      "sha256": "337700765a3f2b5123525ceec6f12c52fd552a6d64beb65c105b89d5d2f645cf",
+      "size_bytes": 24103,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621083,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 24103
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621083,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 24103
+      }
+    },
+    "UniME/source/test.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/test.py",
+      "sha256": "eb7ced68fe6e12dd53fa2649ebead1d8bf2b1a4bdd7f3ed5ca044bb24041ba74",
+      "size_bytes": 15267,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621082,
+        "mode": 33188,
+        "mtime_ns": 1789842384000000000,
+        "size": 15267
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621082,
+        "mode": 33188,
+        "mtime_ns": 1789842384000000000,
+        "size": 15267
+      }
+    },
+    "UniME/source/train.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/train.py",
+      "sha256": "433a1c40311d5dc1c85f19dcad16fc740efe021abba55b5d559b686e0cab9c4f",
+      "size_bytes": 23970,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1224979098652758903,
+        "mode": 33188,
+        "mtime_ns": 1790182238000000000,
+        "size": 23970
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1224979098652758903,
+        "mode": 33188,
+        "mtime_ns": 1790182238000000000,
+        "size": 23970
+      }
+    },
+    "UniME/source/utils/__init__.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/utils/__init__.py",
+      "sha256": "e2a0158e428362525cd2206b58db7d33c6cf1d4454a70807b80bf1440f751a5f",
+      "size_bytes": 449,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1513209474804462004,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 449
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1513209474804462004,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 449
+      }
+    },
+    "UniME/source/utils/runtime.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/utils/runtime.py",
+      "sha256": "5f1ddaf4f8748141a9473fe8987c62dac47f84c4acec2625bba72f3ab34d9bd1",
+      "size_bytes": 3053,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1224979098652758904,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 3053
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 1224979098652758904,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 3053
+      }
+    },
+    "UniME/source/utils/wandb_utils.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/utils/wandb_utils.py",
+      "sha256": "f06bd702ce174ef712351b7f96274ce983d1d4df19fd11a4d5907821cf01fbbe",
+      "size_bytes": 7301,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2161727821144003926,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 7301
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 2161727821144003926,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 7301
+      }
+    },
+    "UniME/source/validate.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/source/validate.py",
+      "sha256": "a8dffeab8b69e639c1785ef2c62302754f1f35a03b3730526484c0a103ed1c73",
+      "size_bytes": 8776,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 72057594045906357,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 8776
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 72057594045906357,
+        "mode": 33188,
+        "mtime_ns": 1789838967000000000,
+        "size": 8776
+      }
+    },
+    "UniME/submit_training.slurm": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/submit_training.slurm",
+      "sha256": "e5504a1750041c7dcb2889708b2bfa85f3040f573bb158e6ce0d349d0d0b4e54",
+      "size_bytes": 3155,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2666130979409504074,
+        "mode": 33188,
+        "mtime_ns": 1789846264000000000,
+        "size": 3155
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 2666130979409504074,
+        "mode": 33188,
+        "mtime_ns": 1789846264000000000,
+        "size": 3155
+      }
+    },
+    "UniME/tests/test_benchmark_capture.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_benchmark_capture.py",
+      "sha256": "8836bcad50aa67cb2181be6b85016e3a35eaf8582a179dc3dcd7dd49af8a4b42",
+      "size_bytes": 19177,
+      "stat_after": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 288230376159693595,
+        "mode": 33188,
+        "mtime_ns": 1790183031000000000,
+        "size": 19177
+      },
+      "stat_before": {
+        "ctime_ns": 1790183477000000000,
+        "dev": 244,
+        "ino": 288230376159693595,
+        "mode": 33188,
+        "mtime_ns": 1790183031000000000,
+        "size": 19177
+      }
+    },
+    "UniME/tests/test_benchmark_metrics.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_benchmark_metrics.py",
+      "sha256": "29e992e120f4fdbf62854f0ae6487894a270b3bbbea7d5a574a30dcf46d04b2b",
+      "size_bytes": 16247,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 216172782121759090,
+        "mode": 33204,
+        "mtime_ns": 1790186468000000000,
+        "size": 16247
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 216172782121759090,
+        "mode": 33204,
+        "mtime_ns": 1790186468000000000,
+        "size": 16247
+      }
+    },
+    "UniME/tests/test_benchmark_protocol.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_benchmark_protocol.py",
+      "sha256": "8b69fa2be52ad2574d5fa9aa2b8aa1ecdb4d904d58244a76ed0f100a381247c7",
+      "size_bytes": 18778,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1585267068842400294,
+        "mode": 33204,
+        "mtime_ns": 1790186471000000000,
+        "size": 18778
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1585267068842400294,
+        "mode": 33204,
+        "mtime_ns": 1790186471000000000,
+        "size": 18778
+      }
+    },
+    "UniME/tests/test_benchmark_runner.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_benchmark_runner.py",
+      "sha256": "5722a44577c7655542e38d0e5fc72691ae8a7392c932707a102ceec53d97b294",
+      "size_bytes": 31369,
+      "stat_after": {
+        "ctime_ns": 1790183579000000000,
+        "dev": 244,
+        "ino": 1369094286728614300,
+        "mode": 33188,
+        "mtime_ns": 1790183579000000000,
+        "size": 31369
+      },
+      "stat_before": {
+        "ctime_ns": 1790183579000000000,
+        "dev": 244,
+        "ino": 1369094286728614300,
+        "mode": 33188,
+        "mtime_ns": 1790183579000000000,
+        "size": 31369
+      }
+    },
+    "UniME/tests/test_gpu_smoke_contract.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_gpu_smoke_contract.py",
+      "sha256": "58e6f28340f883ddc4795856ca24e45ae06439a683c9976792020de7b9233cf3",
+      "size_bytes": 2974,
+      "stat_after": {
+        "ctime_ns": 1790188133000000000,
+        "dev": 244,
+        "ino": 2666130979409504534,
+        "mode": 33204,
+        "mtime_ns": 1790188133000000000,
+        "size": 2974
+      },
+      "stat_before": {
+        "ctime_ns": 1790188133000000000,
+        "dev": 244,
+        "ino": 2666130979409504534,
+        "mode": 33204,
+        "mtime_ns": 1790188133000000000,
+        "size": 2974
+      }
+    },
+    "UniME/tests/test_paper_masking.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_paper_masking.py",
+      "sha256": "14c27d2bf56ecf2a0453e2f965e9b89f92fec060077214eb0f9111fb4441ea95",
+      "size_bytes": 7229,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1873497444992294251,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 7229
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1873497444992294251,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 7229
+      }
+    },
+    "UniME/tests/test_paper_optimizer.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_paper_optimizer.py",
+      "sha256": "95a654f2cc205e9a3da26e1d2777ca9f75a7785748157fa2310374cb6d2080e9",
+      "size_bytes": 4117,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 936748722501045176,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 4117
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 936748722501045176,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 4117
+      }
+    },
+    "UniME/tests/test_paper_preprocessing.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_paper_preprocessing.py",
+      "sha256": "fbf756c538db8235d3c2f20824cceace45e1c3cbc48b4905a818e6df3f1ceb2a",
+      "size_bytes": 8402,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 360287970197621081,
+        "mode": 33204,
+        "mtime_ns": 1790186341000000000,
+        "size": 8402
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 360287970197621081,
+        "mode": 33204,
+        "mtime_ns": 1790186341000000000,
+        "size": 8402
+      }
+    },
+    "UniME/tests/test_paper_prior_shape.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_paper_prior_shape.py",
+      "sha256": "db891bca3156d3d4d4ee3c145ea464c587208647ae6bfe41c6a23784dfc9377c",
+      "size_bytes": 4211,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 2233785415181933027,
+        "mode": 33204,
+        "mtime_ns": 1790186341000000000,
+        "size": 4211
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 2233785415181933027,
+        "mode": 33204,
+        "mtime_ns": 1790186341000000000,
+        "size": 4211
+      }
+    },
+    "UniME/tests/test_paper_scheduler.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/UniME/tests/test_paper_scheduler.py",
+      "sha256": "4ac1b03defd235f7a16c19e11ed690ad900418b7680a2af0209f139b5c98a737",
+      "size_bytes": 5887,
+      "stat_after": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1008806316538975362,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 5887
+      },
+      "stat_before": {
+        "ctime_ns": 1790186766000000000,
+        "dev": 244,
+        "ino": 1008806316538975362,
+        "mode": 33204,
+        "mtime_ns": 1790186353000000000,
+        "size": 5887
+      }
+    },
+    "artifacts/splits/official_imfuse_split.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/splits/official_imfuse_split.json",
+      "sha256": "84c430662622560f70055313417373f8dad0729fb20773e7e2e13238d215b831",
+      "size_bytes": 34452,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621086,
+        "mode": 33188,
+        "mtime_ns": 1786976257000000000,
+        "size": 34452
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 360287970197621086,
+        "mode": 33188,
+        "mtime_ns": 1786976257000000000,
+        "size": 34452
+      }
+    },
+    "artifacts/unime/benchmark_runs/unime_20260923_01/SOURCE_CONFIG_FROZEN.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/benchmark_runs/unime_20260923_01/SOURCE_CONFIG_FROZEN.json",
+      "sha256": "6a81d086e5ea93d8b4cfbc59c8883c6eeb4d75ab1e76124e29b6f599aef32fa7",
+      "size_bytes": 9329,
+      "stat_after": {
+        "ctime_ns": 1790191981000000000,
+        "dev": 244,
+        "ino": 648518346349334011,
+        "mode": 33152,
+        "mtime_ns": 1790191981000000000,
+        "size": 9329
+      },
+      "stat_before": {
+        "ctime_ns": 1790191981000000000,
+        "dev": 244,
+        "ino": 648518346349334011,
+        "mode": 33152,
+        "mtime_ns": 1790191981000000000,
+        "size": 9329
+      }
+    },
+    "artifacts/unime/benchmark_runs/unime_20260923_01/pretrain/BRATS2023-40-Normal/UniEncoder/UniEncoder_metrics.jsonl": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/benchmark_runs/unime_20260923_01/pretrain/BRATS2023-40-Normal/UniEncoder/UniEncoder_metrics.jsonl",
+      "sha256": "bf43335e11ac99953fe8f4a6e921a09214097def3a47cdd1984fe0f92179f2e0",
+      "size_bytes": 129103,
+      "stat_after": {
+        "ctime_ns": 1790192047000000000,
+        "dev": 244,
+        "ino": 2233785415181934503,
+        "mode": 33152,
+        "mtime_ns": 1790206583000000000,
+        "size": 129103
+      },
+      "stat_before": {
+        "ctime_ns": 1790192047000000000,
+        "dev": 244,
+        "ino": 2233785415181934503,
+        "mode": 33152,
+        "mtime_ns": 1790206583000000000,
+        "size": 129103
+      }
+    },
+    "artifacts/unime/benchmark_runs/unime_20260923_01/pretrain/BRATS2023-40-Normal/UniEncoder/config.yaml": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/benchmark_runs/unime_20260923_01/pretrain/BRATS2023-40-Normal/UniEncoder/config.yaml",
+      "sha256": "167300a0021aabde0fab34dab3047b47c2a6035f3599f11c4fc4647485dc824a",
+      "size_bytes": 996,
+      "stat_after": {
+        "ctime_ns": 1790192060000000000,
+        "dev": 244,
+        "ino": 288230376159694951,
+        "mode": 33152,
+        "mtime_ns": 1790192060000000000,
+        "size": 996
+      },
+      "stat_before": {
+        "ctime_ns": 1790192060000000000,
+        "dev": 244,
+        "ino": 288230376159694951,
+        "mode": 33152,
+        "mtime_ns": 1790192060000000000,
+        "size": 996
+      }
+    },
+    "artifacts/unime/reference/validation_partition.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/reference/validation_partition.json",
+      "sha256": "7f4a427d3c0098cdd23e49bbfc45225ce0fe6378461b01d50955e4ebbea23bf3",
+      "size_bytes": 2973,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 144115188083841556,
+        "mode": 33204,
+        "mtime_ns": 1790183478000000000,
+        "size": 2973
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 144115188083841556,
+        "mode": 33204,
+        "mtime_ns": 1790183478000000000,
+        "size": 2973
+      }
+    },
+    "artifacts/unime/smoke_runs/unime_20260923_01/INFERENCE_PARITY.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/smoke_runs/unime_20260923_01/INFERENCE_PARITY.json",
+      "sha256": "1d32a81763697e221ddd13ea1714e7b6a686ea037567d160635bf4c130e46335",
+      "size_bytes": 22212,
+      "stat_after": {
+        "ctime_ns": 1790191939000000000,
+        "dev": 244,
+        "ino": 2089670227106076318,
+        "mode": 33152,
+        "mtime_ns": 1790191939000000000,
+        "size": 22212
+      },
+      "stat_before": {
+        "ctime_ns": 1790191939000000000,
+        "dev": 244,
+        "ino": 2089670227106076318,
+        "mode": 33152,
+        "mtime_ns": 1790191939000000000,
+        "size": 22212
+      }
+    },
+    "artifacts/unime/smoke_runs/unime_20260923_01/PREPROCESSING_PASSED.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/smoke_runs/unime_20260923_01/PREPROCESSING_PASSED.json",
+      "sha256": "b6d0c13ab464c8cbca1dc674f69858a68c1c780f1539da988173d1526d53f187",
+      "size_bytes": 2736,
+      "stat_after": {
+        "ctime_ns": 1790191847000000000,
+        "dev": 244,
+        "ino": 2017612633068155695,
+        "mode": 33152,
+        "mtime_ns": 1790191847000000000,
+        "size": 2736
+      },
+      "stat_before": {
+        "ctime_ns": 1790191847000000000,
+        "dev": 244,
+        "ino": 2017612633068155695,
+        "mode": 33152,
+        "mtime_ns": 1790191847000000000,
+        "size": 2736
+      }
+    },
+    "artifacts/unime/smoke_runs/unime_20260923_01/SMOKE_PASSED.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/smoke_runs/unime_20260923_01/SMOKE_PASSED.json",
+      "sha256": "78f5f1f79ef40dccaa4f947cad651e2d1fe672667972dd803d4d65af5e4343fb",
+      "size_bytes": 1612,
+      "stat_after": {
+        "ctime_ns": 1790191942000000000,
+        "dev": 244,
+        "ino": 360287970197622438,
+        "mode": 33152,
+        "mtime_ns": 1790191942000000000,
+        "size": 1612
+      },
+      "stat_before": {
+        "ctime_ns": 1790191942000000000,
+        "dev": 244,
+        "ino": 360287970197622438,
+        "mode": 33152,
+        "mtime_ns": 1790191942000000000,
+        "size": 1612
+      }
+    },
+    "artifacts/unime/smoke_runs/unime_20260923_01/finetune.log": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/smoke_runs/unime_20260923_01/finetune.log",
+      "sha256": "301bb62e0fdf25223607b39332a8bc2e3c92130af15aa2fbb741b88ba4b338b7",
+      "size_bytes": 2123,
+      "stat_after": {
+        "ctime_ns": 1790188657000000000,
+        "dev": 244,
+        "ino": 1441151880766541696,
+        "mode": 33152,
+        "mtime_ns": 1790188902000000000,
+        "size": 2123
+      },
+      "stat_before": {
+        "ctime_ns": 1790188657000000000,
+        "dev": 244,
+        "ino": 1441151880766541696,
+        "mode": 33152,
+        "mtime_ns": 1790188902000000000,
+        "size": 2123
+      }
+    },
+    "artifacts/unime/smoke_runs/unime_20260923_01/pretrain.log": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/smoke_runs/unime_20260923_01/pretrain.log",
+      "sha256": "83c8fac7fc3f06bd9dd83e033ae6a090c714446df3e5ae7b2b85b7319fe44d94",
+      "size_bytes": 25785,
+      "stat_after": {
+        "ctime_ns": 1790188242000000000,
+        "dev": 244,
+        "ino": 1224979098652759342,
+        "mode": 33152,
+        "mtime_ns": 1790188653000000000,
+        "size": 25785
+      },
+      "stat_before": {
+        "ctime_ns": 1790188242000000000,
+        "dev": 244,
+        "ino": 1224979098652759342,
+        "mode": 33152,
+        "mtime_ns": 1790188653000000000,
+        "size": 25785
+      }
+    },
+    "artifacts/unime/smoke_runs/unime_20260923_01/protocol.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/smoke_runs/unime_20260923_01/protocol.json",
+      "sha256": "e034e477cad93199d0d12f1edc39ca0fb9871c23ff234f2f26d9fb37d416a217",
+      "size_bytes": 136000,
+      "stat_after": {
+        "ctime_ns": 1790191851000000000,
+        "dev": 244,
+        "ino": 288230376159694831,
+        "mode": 33152,
+        "mtime_ns": 1790191851000000000,
+        "size": 136000
+      },
+      "stat_before": {
+        "ctime_ns": 1790191851000000000,
+        "dev": 244,
+        "ino": 288230376159694831,
+        "mode": 33152,
+        "mtime_ns": 1790191851000000000,
+        "size": 136000
+      }
+    },
+    "baseline_adapters/unime/preprocess_full.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/baseline_adapters/unime/preprocess_full.py",
+      "sha256": "91c1ae6f4fadaf719d3c3b4994ae0c135147d8e53e15f837002c60c88fe60bd1",
+      "size_bytes": 13235,
+      "stat_after": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 432345564235548715,
+        "mode": 33188,
+        "mtime_ns": 1789978125000000000,
+        "size": 13235
+      },
+      "stat_before": {
+        "ctime_ns": 1790183478000000000,
+        "dev": 244,
+        "ino": 432345564235548715,
+        "mode": 33188,
+        "mtime_ns": 1789978125000000000,
+        "size": 13235
+      }
+    },
+    "setup/unime_launch_20260923_01/README.md": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_launch_20260923_01/README.md",
+      "sha256": "81ea3e609314e1bf12252a600d21d5d56b637a04de0b9cfe76697267a88932ae",
+      "size_bytes": 1635,
+      "stat_after": {
+        "ctime_ns": 1790188126000000000,
+        "dev": 244,
+        "ino": 1080863910576898245,
+        "mode": 33204,
+        "mtime_ns": 1790188126000000000,
+        "size": 1635
+      },
+      "stat_before": {
+        "ctime_ns": 1790188126000000000,
+        "dev": 244,
+        "ino": 1080863910576898245,
+        "mode": 33204,
+        "mtime_ns": 1790188126000000000,
+        "size": 1635
+      }
+    },
+    "setup/unime_launch_20260923_01/full.slurm": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_launch_20260923_01/full.slurm",
+      "sha256": "edac52860f6777568791bbcce77fdb8f96a67d28620d346b6f6e4998466a4fb7",
+      "size_bytes": 901,
+      "stat_after": {
+        "ctime_ns": 1790188124000000000,
+        "dev": 244,
+        "ino": 360287970197621515,
+        "mode": 33204,
+        "mtime_ns": 1790188124000000000,
+        "size": 901
+      },
+      "stat_before": {
+        "ctime_ns": 1790188124000000000,
+        "dev": 244,
+        "ino": 360287970197621515,
+        "mode": 33204,
+        "mtime_ns": 1790188124000000000,
+        "size": 901
+      }
+    },
+    "setup/unime_launch_20260923_01/manifest.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_launch_20260923_01/manifest.json",
+      "sha256": "b3370c4a55e75ca109cd8e955cc658c8d4bc77204244d4bfe42e61642adbe109",
+      "size_bytes": 11016,
+      "stat_after": {
+        "ctime_ns": 1790188124000000000,
+        "dev": 244,
+        "ino": 720575940387260018,
+        "mode": 33204,
+        "mtime_ns": 1790188124000000000,
+        "size": 11016
+      },
+      "stat_before": {
+        "ctime_ns": 1790188124000000000,
+        "dev": 244,
+        "ino": 720575940387260018,
+        "mode": 33204,
+        "mtime_ns": 1790188124000000000,
+        "size": 11016
+      }
+    },
+    "setup/unime_launch_20260923_01/orchestrate.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_launch_20260923_01/orchestrate.py",
+      "sha256": "b48e118f86c5531b3ad12600c163112ce4a9dbc6490e9e21d0897cc96ac45b79",
+      "size_bytes": 14419,
+      "stat_after": {
+        "ctime_ns": 1790188125000000000,
+        "dev": 244,
+        "ino": 2449958197295717531,
+        "mode": 33204,
+        "mtime_ns": 1790188125000000000,
+        "size": 14419
+      },
+      "stat_before": {
+        "ctime_ns": 1790188125000000000,
+        "dev": 244,
+        "ino": 2449958197295717531,
+        "mode": 33204,
+        "mtime_ns": 1790188125000000000,
+        "size": 14419
+      }
+    },
+    "setup/unime_launch_20260923_01/smoke.slurm": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_launch_20260923_01/smoke.slurm",
+      "sha256": "5d6897f53606e2a822b59dd6414503b745c123ca684c8d57ce561c7210065d22",
+      "size_bytes": 900,
+      "stat_after": {
+        "ctime_ns": 1790188126000000000,
+        "dev": 244,
+        "ino": 2161727821144004381,
+        "mode": 33204,
+        "mtime_ns": 1790188126000000000,
+        "size": 900
+      },
+      "stat_before": {
+        "ctime_ns": 1790188126000000000,
+        "dev": 244,
+        "ino": 2161727821144004381,
+        "mode": 33204,
+        "mtime_ns": 1790188126000000000,
+        "size": 900
+      }
+    },
+    "setup/unime_rerun_20260925_02/README.md": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/README.md",
+      "sha256": "96528c54487682723e8679429362cea2d7683f490a048f2f3c7382001da93340",
+      "size_bytes": 3348,
+      "stat_after": {
+        "ctime_ns": 1790317773000000000,
+        "dev": 244,
+        "ino": 792633534425241562,
+        "mode": 33204,
+        "mtime_ns": 1790317773000000000,
+        "size": 3348
+      },
+      "stat_before": {
+        "ctime_ns": 1790317773000000000,
+        "dev": 244,
+        "ino": 792633534425241562,
+        "mode": 33204,
+        "mtime_ns": 1790317773000000000,
+        "size": 3348
+      }
+    },
+    "setup/unime_rerun_20260925_02/SUBMITTED.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/SUBMITTED.json",
+      "sha256": "10b4d1ea8250f2495b0c7a83be105cda68357595c8f4afcf771fea8e47f82ed5",
+      "size_bytes": 637,
+      "stat_after": {
+        "ctime_ns": 1790317824000000000,
+        "dev": 244,
+        "ino": 288230376159746997,
+        "mode": 33204,
+        "mtime_ns": 1790317824000000000,
+        "size": 637
+      },
+      "stat_before": {
+        "ctime_ns": 1790317824000000000,
+        "dev": 244,
+        "ino": 288230376159746997,
+        "mode": 33204,
+        "mtime_ns": 1790317824000000000,
+        "size": 637
+      }
+    },
+    "setup/unime_rerun_20260925_02/full.slurm": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/full.slurm",
+      "sha256": "b3974e1961d57f155e5cac1f32243cc53d399f14ecb180811257515bc5514d98",
+      "size_bytes": 886,
+      "stat_after": {
+        "ctime_ns": 1790317772000000000,
+        "dev": 244,
+        "ino": 1297036692690742897,
+        "mode": 33204,
+        "mtime_ns": 1790317772000000000,
+        "size": 886
+      },
+      "stat_before": {
+        "ctime_ns": 1790317772000000000,
+        "dev": 244,
+        "ino": 1297036692690742897,
+        "mode": 33204,
+        "mtime_ns": 1790317772000000000,
+        "size": 886
+      }
+    },
+    "setup/unime_rerun_20260925_02/launcher.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/launcher.py",
+      "sha256": "ce6dccf65833ebe08c740cf838df6a306bdb556c4629642af57c8c77dfcfc48d",
+      "size_bytes": 16349,
+      "stat_after": {
+        "ctime_ns": 1790317772000000000,
+        "dev": 244,
+        "ino": 2233785415181986170,
+        "mode": 33204,
+        "mtime_ns": 1790317772000000000,
+        "size": 16349
+      },
+      "stat_before": {
+        "ctime_ns": 1790317772000000000,
+        "dev": 244,
+        "ino": 2233785415181986170,
+        "mode": 33204,
+        "mtime_ns": 1790317772000000000,
+        "size": 16349
+      }
+    },
+    "setup/unime_rerun_20260925_02/manifest.json": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/manifest.json",
+      "sha256": "36e5ce504653718aa79186e1b6ceadc5ec87f6b23097341ee28c11aded891d93",
+      "size_bytes": 877,
+      "stat_after": {
+        "ctime_ns": 1790317777000000000,
+        "dev": 244,
+        "ino": 648518346349385417,
+        "mode": 33204,
+        "mtime_ns": 1790317777000000000,
+        "size": 877
+      },
+      "stat_before": {
+        "ctime_ns": 1790317777000000000,
+        "dev": 244,
+        "ino": 648518346349385417,
+        "mode": 33204,
+        "mtime_ns": 1790317777000000000,
+        "size": 877
+      }
+    },
+    "setup/unime_rerun_20260925_02/retry_until_queued.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/retry_until_queued.py",
+      "sha256": "da9ab24a23c80a218c0cc35309e01b5ffd527ada27da8cf446863af0acfb8960",
+      "size_bytes": 9920,
+      "stat_after": {
+        "ctime_ns": 1790317776000000000,
+        "dev": 244,
+        "ino": 1152921504614877882,
+        "mode": 33204,
+        "mtime_ns": 1790317776000000000,
+        "size": 9920
+      },
+      "stat_before": {
+        "ctime_ns": 1790317776000000000,
+        "dev": 244,
+        "ino": 1152921504614877882,
+        "mode": 33204,
+        "mtime_ns": 1790317776000000000,
+        "size": 9920
+      }
+    },
+    "setup/unime_rerun_20260925_02/test_launcher.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/test_launcher.py",
+      "sha256": "d555e52f2caba624c01bc0bc218d87b1641331b5eec75244cae0cd66cb464cd7",
+      "size_bytes": 7516,
+      "stat_after": {
+        "ctime_ns": 1790317774000000000,
+        "dev": 244,
+        "ino": 720575940387312956,
+        "mode": 33204,
+        "mtime_ns": 1790317774000000000,
+        "size": 7516
+      },
+      "stat_before": {
+        "ctime_ns": 1790317774000000000,
+        "dev": 244,
+        "ino": 720575940387312956,
+        "mode": 33204,
+        "mtime_ns": 1790317774000000000,
+        "size": 7516
+      }
+    },
+    "setup/unime_rerun_20260925_02/test_retry_until_queued.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/test_retry_until_queued.py",
+      "sha256": "f36c8604bc7bd3a1678ffe58686d2220ece2d3f7a8322c2cce9cfab218adde1f",
+      "size_bytes": 17428,
+      "stat_after": {
+        "ctime_ns": 1790317777000000000,
+        "dev": 244,
+        "ino": 1369094286728667715,
+        "mode": 33204,
+        "mtime_ns": 1790317777000000000,
+        "size": 17428
+      },
+      "stat_before": {
+        "ctime_ns": 1790317777000000000,
+        "dev": 244,
+        "ino": 1369094286728667715,
+        "mode": 33204,
+        "mtime_ns": 1790317777000000000,
+        "size": 17428
+      }
+    },
+    "setup/unime_rerun_20260925_02/test_watch_epochs.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/test_watch_epochs.py",
+      "sha256": "ffb6878b2008632ea633464a77edc5124091d4056084425de9e48ab412b8d8f6",
+      "size_bytes": 7794,
+      "stat_after": {
+        "ctime_ns": 1790317775000000000,
+        "dev": 244,
+        "ino": 936748722501098500,
+        "mode": 33204,
+        "mtime_ns": 1790317775000000000,
+        "size": 7794
+      },
+      "stat_before": {
+        "ctime_ns": 1790317775000000000,
+        "dev": 244,
+        "ino": 936748722501098500,
+        "mode": 33204,
+        "mtime_ns": 1790317775000000000,
+        "size": 7794
+      }
+    },
+    "setup/unime_rerun_20260925_02/watch_epochs.py": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_rerun_20260925_02/watch_epochs.py",
+      "sha256": "ae53bd77bcae85f184acc1f4d7dd287df01bef3db124ce786d22cf616db164b1",
+      "size_bytes": 8717,
+      "stat_after": {
+        "ctime_ns": 1790317774000000000,
+        "dev": 244,
+        "ino": 2522015791333689784,
+        "mode": 33204,
+        "mtime_ns": 1790317774000000000,
+        "size": 8717
+      },
+      "stat_before": {
+        "ctime_ns": 1790317774000000000,
+        "dev": 244,
+        "ino": 2522015791333689784,
+        "mode": 33204,
+        "mtime_ns": 1790317774000000000,
+        "size": 8717
+      }
+    }
+  },
+  "frozen_manifest_sha256": "b3370c4a55e75ca109cd8e955cc658c8d4bc77204244d4bfe42e61642adbe109",
+  "frozen_source_file_count": 98,
+  "optional_provenance_omissions": [
+    {
+      "path": "setup/unime_rerun_20260925_02/STATUS.md",
+      "reason": "not_present_on_source"
+    }
+  ],
+  "producer": {
+    "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/build_transfer.py",
+    "sha256": "17d2e1a517fbd6201f0006f9f9e06bdd5e3314ab101946b9c189fd4f13f95bdb",
+    "size_bytes": 15354,
+    "stat_after": {
+      "ctime_ns": 1790339730000000000,
+      "dev": 244,
+      "ino": 1369094286728669148,
+      "mode": 33204,
+      "mtime_ns": 1790339730000000000,
+      "size": 15354
+    },
+    "stat_before": {
+      "ctime_ns": 1790339730000000000,
+      "dev": 244,
+      "ino": 1369094286728669148,
+      "mode": 33204,
+      "mtime_ns": 1790339730000000000,
+      "size": 15354
+    }
+  },
+  "schema_version": 1,
+  "separate_assets": {
+    "dataset_zip": {
+      "chunks": [
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0001",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0001",
+          "sha256": "fb2ae902ac1bc39a2ca80ecc8e0d4914dc532b38eccfd691097ca496b5ac9569",
+          "size_bytes": 2147483648,
+          "stat_after": {
+            "ctime_ns": 1790339752000000000,
+            "dev": 244,
+            "ino": 2305843009219914567,
+            "mode": 33152,
+            "mtime_ns": 1790339752000000000,
+            "size": 2147483648
+          }
+        },
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0002",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0002",
+          "sha256": "68a5214858e3d9ac6260deb2fa664539b98424f2728d83a18d36f2168ef8c4b1",
+          "size_bytes": 2147483648,
+          "stat_after": {
+            "ctime_ns": 1790339760000000000,
+            "dev": 244,
+            "ino": 2377900603257839836,
+            "mode": 33152,
+            "mtime_ns": 1790339760000000000,
+            "size": 2147483648
+          }
+        },
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0003",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0003",
+          "sha256": "e239591498bca275a15f6e3241737ca2f0c1664c180cb88ac6002e931d7a218e",
+          "size_bytes": 2147483648,
+          "stat_after": {
+            "ctime_ns": 1790339768000000000,
+            "dev": 244,
+            "ino": 2522015791333691243,
+            "mode": 33152,
+            "mtime_ns": 1790339768000000000,
+            "size": 2147483648
+          }
+        },
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0004",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0004",
+          "sha256": "632f831113a8e1024a2427a547fcefbdedc8bd0c5274a33b0451cede0d4c7334",
+          "size_bytes": 2147483648,
+          "stat_after": {
+            "ctime_ns": 1790339776000000000,
+            "dev": 244,
+            "ino": 1297036692690744324,
+            "mode": 33152,
+            "mtime_ns": 1790339776000000000,
+            "size": 2147483648
+          }
+        },
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0005",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0005",
+          "sha256": "cdc70d82ef3cbe89d57a6c9e5b9e404ebb33aadc70c223cfb60403612f954353",
+          "size_bytes": 2147483648,
+          "stat_after": {
+            "ctime_ns": 1790339785000000000,
+            "dev": 244,
+            "ino": 432345564235603068,
+            "mode": 33152,
+            "mtime_ns": 1790339785000000000,
+            "size": 2147483648
+          }
+        },
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0006",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0006",
+          "sha256": "269ee1295f1aeb1ff37d233893eb5932357bf25b227b2e3e6adcca8c36b3e541",
+          "size_bytes": 2147483648,
+          "stat_after": {
+            "ctime_ns": 1790339793000000000,
+            "dev": 244,
+            "ino": 1152921504614879296,
+            "mode": 33152,
+            "mtime_ns": 1790339793000000000,
+            "size": 2147483648
+          }
+        },
+        {
+          "filename": "ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0007",
+          "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/setup/unime_local_stage_20260925_01/outputs_02/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip.part0007",
+          "sha256": "56b14658222a0417862e5416ba15c8b44c2d14174be50a1660076629c1744041",
+          "size_bytes": 287714956,
+          "stat_after": {
+            "ctime_ns": 1790339795000000000,
+            "dev": 244,
+            "ino": 1729382256918306605,
+            "mode": 33152,
+            "mtime_ns": 1790339795000000000,
+            "size": 287714956
+          }
+        }
+      ],
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData.zip",
+      "sha256": "e1f6b0ff1320dcf2fc1d472cdf823190446783701f2dd705ac3b4c14a2a97d3f",
+      "size_bytes": 13172616844,
+      "stat_after": {
+        "ctime_ns": 1788612787000000000,
+        "dev": 244,
+        "ino": 1224979098652425299,
+        "mode": 33204,
+        "mtime_ns": 1788612787000000000,
+        "size": 13172616844
+      },
+      "stat_before": {
+        "ctime_ns": 1788612787000000000,
+        "dev": 244,
+        "ino": 1224979098652425299,
+        "mode": 33204,
+        "mtime_ns": 1788612787000000000,
+        "size": 13172616844
+      }
+    },
+    "pretrained_checkpoint": {
+      "origin": "/adialab/usr/khaled/SAMTOK_DIR/AVMUR/baselines/artifacts/unime/benchmark_runs/unime_20260923_01/pretrain/BRATS2023-40-Normal/UniEncoder/ema_best_checkpoint.pth",
+      "sha256": "ef8404f658c542cb856e23b9dfb9291df3408d7d56931ec3db16b4df91180c1f",
+      "size_bytes": 2069774219,
+      "stat_after": {
+        "ctime_ns": 1790206358000000000,
+        "dev": 244,
+        "ino": 576460752311401547,
+        "mode": 33152,
+        "mtime_ns": 1790206358000000000,
+        "size": 2069774219
+      },
+      "stat_before": {
+        "ctime_ns": 1790206358000000000,
+        "dev": 244,
+        "ino": 576460752311401547,
+        "mode": 33152,
+        "mtime_ns": 1790206358000000000,
+        "size": 2069774219
+      }
+    }
+  },
+  "slurm_job_id": "11927"
+}
